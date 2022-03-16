@@ -1,0 +1,16 @@
+body {
+  background-color: #292a2b;
+}
+
+.main {
+  background-color: #198754;
+}
+
+.main h1 {
+  font-size: 2.5rem;
+}
+
+.main p + p {
+  font-size: 0.785rem;
+}
+/*# sourceMappingURL=style.css.map */
